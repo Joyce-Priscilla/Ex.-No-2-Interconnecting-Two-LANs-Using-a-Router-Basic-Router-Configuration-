@@ -64,7 +64,8 @@ ________________________________________
 
 <img width="1920" height="1080" alt="cp2-1" src="https://github.com/user-attachments/assets/01e6624b-1133-4e9f-b2c5-768731e42344" />
 
-<img width="1920" height="1080" alt="cp2-6" src="https://github.com/user-attachments/assets/0158d280-c30f-43ff-8706-c4b28dbdc5bc" />
+<img width="1920" height="1080" alt="cp2-7" src="https://github.com/user-attachments/assets/2629ef6f-9f31-4096-89f4-75cedf169a10" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
