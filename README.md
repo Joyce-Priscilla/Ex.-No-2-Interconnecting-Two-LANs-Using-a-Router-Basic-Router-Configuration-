@@ -1,4 +1,4 @@
-# Date :
+# Date : 24.07.26
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
 
 
@@ -17,6 +17,9 @@ ________________________________________
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
+
+<img width="1920" height="1080" alt="cp2-2" src="https://github.com/user-attachments/assets/9e9a4616-0e8c-4cf0-826f-d41d868e6c08" />
+
 ________________________________________
 # IP Addressing Table
 Device	Interface	IP Address	Subnet Mask<br>
@@ -55,6 +58,13 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
+<img width="1920" height="1080" alt="cp2-4" src="https://github.com/user-attachments/assets/5857f833-79c9-41ef-9b35-5b24f7026bbb" />
+
+<img width="1920" height="1080" alt="cp2-5" src="https://github.com/user-attachments/assets/f744fe59-450e-4b1a-8043-9fea4b199a7c" />
+
+<img width="1920" height="1080" alt="cp2-1" src="https://github.com/user-attachments/assets/01e6624b-1133-4e9f-b2c5-768731e42344" />
+
+<img width="1920" height="1080" alt="cp2-6" src="https://github.com/user-attachments/assets/0158d280-c30f-43ff-8706-c4b28dbdc5bc" />
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
